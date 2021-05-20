@@ -1,0 +1,23 @@
+{
+    "nodeUrl": "http://dual-01.dhealth.cloud:3000",
+    "marketDataUrl": "https://min-api.cryptocompare.com/",
+    "pagination": {
+        "pageSize": 25
+    },
+    "testAccount": {
+        "address": "NCOMSWYJ5E6WRQV7GBLHCIITDAVDZQ5HEMYJV6I"
+    },
+    "testMosaic": {
+        "mosaicId": "39E0C49FA322A459"
+    },
+    "testNamespace": {
+        "rootNamespace": "dhealth",
+        "subNamespace": "dhealth.dhp"
+    },
+    "testBlock": {
+        "height": 1
+    },
+    "testTransactions":{
+        "transferTransactionHash": "8AF63A07677442F89B54C85E1F547DFF23ABCEB01B59B100B81D666BD96540D1"
+    }
+}
